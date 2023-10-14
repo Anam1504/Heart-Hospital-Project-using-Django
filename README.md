@@ -13,7 +13,8 @@ pip install -r requirements.txt
 
 # Installing
 ```
-
+open terminal and type
+git@github.com:Anam1504/Heart-Hospital-Project-using-Django.git
 ```
 # To migrate the database open terminal in project directory and type
 ```
